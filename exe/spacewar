@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
-require "bundler/setup"
-require "spacewar"
+require 'bundler/setup'
+require 'spacewar'
