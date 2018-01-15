@@ -4,6 +4,10 @@ AllCops:
   DisplayCopNames: true
   EnabledByDefault: true
 
+Metrics/BlockLength:
+  Exclude:
+    - spacewar.gemspec
+
 Style/Copyright:
   Enabled: false
 
