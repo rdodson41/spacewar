@@ -1,6 +1,8 @@
 # Spacewar
 
 [![Build Status](https://travis-ci.org/rdodson41/spacewar.svg?branch=master)](https://travis-ci.org/rdodson41/spacewar)
+[![Maintainability](https://api.codeclimate.com/v1/badges/cfe5f6af09a6d1fded03/maintainability)](https://codeclimate.com/github/rdodson41/spacewar/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/cfe5f6af09a6d1fded03/test_coverage)](https://codeclimate.com/github/rdodson41/spacewar/test_coverage)
 
 Spacewar is a space combat video game.
 
