@@ -1,5 +1,7 @@
 # Spacewar
 
+[![Build Status](https://travis-ci.org/rdodson41/spacewar.svg?branch=master)](https://travis-ci.org/rdodson41/spacewar)
+
 Spacewar is a space combat video game.
 
 ## Installation
