@@ -1,8 +1,10 @@
 # Spacewar
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/spacewar`. To experiment with that code, run `bin/console` for an interactive prompt.
+[![Ruby](https://github.com/rdodson41/spacewar/actions/workflows/main.yml/badge.svg)](https://github.com/rdodson41/spacewar/actions/workflows/main.yml)
+[![Maintainability](https://api.codeclimate.com/v1/badges/363c4b9fad9a509e6054/maintainability)](https://codeclimate.com/github/rdodson41/spacewar/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/363c4b9fad9a509e6054/test_coverage)](https://codeclimate.com/github/rdodson41/spacewar/test_coverage)
 
-TODO: Delete this and the text above, and describe your gem
+The `spacewar` gem is a space combat video game.
 
 ## Installation
 
@@ -14,10 +16,6 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
     $ gem install spacewar
 
-## Usage
-
-TODO: Write usage instructions here
-
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
@@ -26,7 +24,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/spacewar. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/spacewar/blob/main/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/rdodson41/spacewar. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/rdodson41/spacewar/blob/main/CODE_OF_CONDUCT.md).
 
 ## License
 
@@ -34,4 +32,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the Spacewar project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/spacewar/blob/main/CODE_OF_CONDUCT.md).
+Everyone interacting in the Spacewar project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/rdodson41/spacewar/blob/main/CODE_OF_CONDUCT.md).
